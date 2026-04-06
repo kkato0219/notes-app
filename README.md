@@ -18,3 +18,5 @@ A simple Notes App built with HTML, CSS, and JavaScript.
 - Event handling
 - LocalStorage
 - Responsive CSS
+
+You can try the Notes App here: [Open Notes App](https://kkato0219.github.io/notes-app/)
